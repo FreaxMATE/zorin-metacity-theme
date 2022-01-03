@@ -1,0 +1,13 @@
+option('ZorinBlue-Light', type: 'boolean', value: true, description:'build ZorinBlue-Light flavour')
+option('ZorinBlue-Dark', type: 'boolean', value: true, description:'build ZorinBlue-Dark flavour')
+option('ZorinGrey-Light', type: 'boolean', value: true, description:'build ZorinGrey-Light flavour')
+option('ZorinGrey-Dark', type: 'boolean', value: true, description:'build ZorinGrey-Dark flavour')
+option('ZorinGreen-Light', type: 'boolean', value: true, description:'build ZorinGreen-Light flavour')
+option('ZorinGreen-Dark', type: 'boolean', value: true, description:'build ZorinGreen-Dark flavour')
+option('ZorinOrange-Light', type: 'boolean', value: true, description:'build ZorinOrange-Light flavour')
+option('ZorinOrange-Dark', type: 'boolean', value: true, description:'build ZorinOrange-Dark flavour')
+option('ZorinPurple-Light', type: 'boolean', value: true, description:'build ZorinPurple-Light flavour')
+option('ZorinPurple-Dark', type: 'boolean', value: true, description:'build ZorinPurple-Dark flavour')
+option('ZorinRed-Light', type: 'boolean', value: true, description:'build ZorinRed-Light flavour')
+option('ZorinRed-Dark', type: 'boolean', value: true, description:'build ZorinRed-Dark flavour')
+
